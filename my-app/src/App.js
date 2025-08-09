@@ -1,12 +1,18 @@
 import logo from './logo.svg';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import { Header } from './ui/Header';
-
+import { Lobe } from './WebPage/Lobe';
+// import { Header } from './Organisms/Header';
+// import { FooterContent } from './molecules/FooterContent;
+// import { FooterSection } from './Organisms/FooterSection';
+ 
 function App() {
   return (
     <div>
-      <Header/>
+      <Lobe/>
+      {/* <Header/>
+    <FooterSection/>
+     <FooterContent/> */}
     </div>
   );
 }
