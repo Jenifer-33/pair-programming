@@ -1,8 +1,10 @@
-import { TinyText} from "../atoms/TinyText";
-export const Statement=()=>{
-return(
-    <div>
-        <TinyText text=""/>
-    </div>
-)
+import { HeadingTwo } from "../atoms/HeadingTwo";
+ export const Statement=()=>{
+    return( 
+        <div >
+            <HeadingTwo text="Build your first machine learning model in ten"/>
+              <HeadingTwo text="minutes.No code or experience required."/>
+        </div>
+
+    )
 }
