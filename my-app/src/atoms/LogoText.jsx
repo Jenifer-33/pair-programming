@@ -1,4 +1,4 @@
-export const LogoText=(text)=>{
+export const LogoText=({text})=>{
     return(
         <div style={{
             color:"Dark gray"

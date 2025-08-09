@@ -1,7 +1,6 @@
 export const LogoIcon=()=>{
     return(
         <div>
-        <i class="fa-regular fa-object-exclude" style="color: #FFD43B;"></i>
+        <i className="fa-solid fa-bicycle" style={{color: "#FFD43B",fontSize: "2rem"}}></i>
         </div>
-    )
-}
+    )}
