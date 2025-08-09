@@ -1,4 +1,4 @@
-import { GreenButton } from "../atoms/GreenButton"
+import { GreenButton } from "../src/atoms/GreenButton"
 import { TinyText } from "../atoms/TinyText"
 
 export const AboutLobe=()=>{
