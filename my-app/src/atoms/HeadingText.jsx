@@ -1,4 +1,4 @@
-export const HeadingText=()=>{
+export const HeadingText=({text})=>{
     return(
         <div style={{
             color:"Dark charcoal",

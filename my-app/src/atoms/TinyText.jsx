@@ -1,5 +1,5 @@
-export const TinyText=(text)=>{
+export const TinyText=({text})=>{
     return(
         <div>{text}</div>
-    )
-}
+    );
+};
